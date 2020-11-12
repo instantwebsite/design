@@ -11,3 +11,7 @@ https://www.figma.com/file/ARy67X7zcUXwOuUywMhQBa/Landing-Page
 #### Open Design Resources
 https://www.figma.com/file/i7xYFVP2SWweCAZqp0QoGJ/Open-Design-Resources?node-id=0%3A1
 > A starting point for people interesting in Open Design. Made by the great people hanging out in #open-design @ Friends of Figma Slack
+
+#### #open-design in Friends of Figma Slack
+https://join.slack.com/t/friendsoffigma/shared_invite/zt-ik34xnbk-YhDjaoGrMSWzBygdmbfP~Q
+> A Slack channel in the Friends of Figma Community for discussing Open Design
